@@ -36,7 +36,7 @@
 ![App Screenshot](https://res.cloudinary.com/dionbiancha/image/upload/v1649095571/github/67867867_wea2tz.png)
 
 <p align="center">
-  <a href="https://dionbiancha.github.io/bmi-calculator/" target="_blank">
+  <a href="https://bmi-calculator-pink.vercel.app/" target="_blank">
     <img alt="Lading page" src="https://res.cloudinary.com/dionbiancha/image/upload/v1610500435/github/view_on_github_n2rq43.png">
   </a>
 </p>
